@@ -1,11 +1,1 @@
-spring:
-  application:
-    name: config-server
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/huaqi426/spring-cloud-study
-          search-paths: config-repo
-server:
-  port: 12000
+dev update
